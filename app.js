@@ -1,4 +1,13 @@
-// https://github.com/BaseMax/YoutubeDownloaderNodeJS
+/**
+ *
+ * @Name : YoutubeDownloaderNodeJS/app.js
+ * @Version : 1.0
+ * @Programmer : Max
+ * @Date : 2019-09-05
+ * @Released under : https://github.com/BaseMax/YoutubeDownloaderNodeJS/blob/master/LICENSE
+ * @Repository : https://github.com/BaseMax/YoutubeDownloaderNodeJS
+ *
+ **/
 let express = require('express')
 let cookieParser = require('cookie-parser')
 let bodyParser = require('body-parser')
