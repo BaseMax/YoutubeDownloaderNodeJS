@@ -43,7 +43,7 @@ app.post('/', (request, response) => {
 		console.log('size: ' + info.size)
 	})
 	video.pipe(fs.createWriteStream('myvideo.mp4'))
-	// After finish: download vide from 'myvideo.mp4'...
+	// After finish: download video from 'myvideo.mp4'...
 })
 
 let server = app.listen(9090, function () {
