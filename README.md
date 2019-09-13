@@ -9,7 +9,7 @@ Tiny NodeJS server-side script for download the **youtube video** based on expre
 - https://www.npmjs.com/package/ytdl
 - https://www.npmjs.com/package/ytdl-core
 
-### More Node Scipts
+### More Scipts
 
 - https://github.com/fent/node-ytdl-core
 - https://github.com/fent/node-ytdl
